@@ -1,0 +1,27 @@
+#keyboard-input {
+    border: 1px solid rgb(142, 139, 139);
+    width: 30%;
+    height: auto;
+    margin: 10px 0px 20px 20px;
+    line-height: 2em;
+}
+
+.input-field{
+    width: 30px;
+    height: 20px;
+}
+
+#cubes-container {
+    display: flex;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column-reverse;
+
+}
+
+.plus-button {
+    height: 2em;
+    justify-items: center;
+}
